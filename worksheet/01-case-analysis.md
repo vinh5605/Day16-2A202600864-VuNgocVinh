@@ -10,7 +10,7 @@ nop-cuoi: Có — đây là file nộp cuối của Lab 1
 
 **Case đã chọn:** Chegg (dịch vụ hỗ trợ học tập / giải bài tập trực tuyến, Mỹ)  
 **Người làm:** Vũ Ngọc Vinh — 2A202600864  
-**Bàn / nhóm bàn:** Bàn 3  
+**Bàn / nhóm bàn:** Bàn 5 
 **Ngày:** 18/06/2026
 
 > Đây là **file duy nhất** của Lab 1.  
